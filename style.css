@@ -1,0 +1,16 @@
+body,html{
+    overflow-x: hidden;
+}
+nav{
+    background-color: #94d2f8;
+}
+nav ul li a{
+    font-weight: bold;
+    color: black;
+}
+.btn-customizado{
+    border-radius: 50px;
+    margin-left: 30%;
+    margin-top: 5%;
+    padding: 2.5% 10%;
+}
