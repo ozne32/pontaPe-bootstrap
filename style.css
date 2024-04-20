@@ -50,3 +50,13 @@ nav ul li a{
     color: black;
     margin-left: 150%;
 }
+.bg-cinza-claro{
+    background-color:rgb(235, 232, 232);
+}
+.rotacao{
+    transform: rotate(270deg);
+    margin-top: 20px;
+}
+.text-azul-escuro{
+    color: #4562b0;
+}
