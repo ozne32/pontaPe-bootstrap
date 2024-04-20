@@ -8,6 +8,9 @@ nav ul li a{
     font-weight: bold;
     color: black;
 }
+#bg-vermelho{
+    background-color: #f97c7b;
+}
 .btn-customizado{
     border-radius: 50px;
     margin-left: 30%;
